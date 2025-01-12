@@ -1,7 +1,7 @@
 {
-  "name": "nuxt3-starter",
+  "name": "truck-crane-expert",
   "version": "0.1.0",
-  "description": "a Nuxt 3 starter template or boilerplate with a lot of useful features. Nuxt3 + Bootstrap 5",
+  "description": "",
   "repository": {
     "type": "git",
     "url": "git://https://github.com/irabbi360/nuxt3-starter"
@@ -10,9 +10,13 @@
   "license": "MIT",
   "private": true,
   "scripts": {
+    "b": "nuxt build",
     "build": "nuxt build",
     "dev": "nuxt dev",
+    "d": "nuxt dev",
     "generate": "nuxt generate",
+    "g": "nuxt generate",
+    "p": "nuxt preview",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
